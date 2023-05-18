@@ -1,0 +1,5 @@
+num=int(input("enter a number: "))
+num1=list(str(num))
+num1.reverse()
+rev_num="".join(num1)
+print(int(rev_num))
