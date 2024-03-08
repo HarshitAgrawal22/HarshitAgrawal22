@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/115237538?v=4"  />
 </div>
 
@@ -64,8 +64,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/HarshitAgrawal22/HarshitAgrawal22/output/snake.svg" alt="Snake animation" />
 
