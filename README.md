@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/115237538?v=4"  />
+  <img height="200" src="blob:https://web.telegram.org/e453ed63-9135-4c0d-bb2d-f640f587f7c0"  />
 </div>
 
 ###
