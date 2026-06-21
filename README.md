@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻I'm currently working on Web Development and Android Development<br>🏫I'm currently learning about Distributed Databases<br>
+👩‍💻I'm currently working on Web Development.<br>
 
 
 ## 🌐 Socials:
